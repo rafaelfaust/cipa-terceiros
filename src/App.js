@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react"
+import { Container, ContainerItems, Nav, Footer } from './Styles/styles'
+import CarouselItens from "./components/CarouselItens"
+import Onix from './images/ONIX_logo cinza.png'
+import Cipa from './images/cipa.png'
+
+
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Container>
+      <Nav>
+        <img src={Onix}/>
+        <h1>Treinamento</h1>
+        <img src={Cipa}/>
+
+      </Nav>
+      <ContainerItems>
+        <CarouselItens/>
+      </ContainerItems>
+      <Footer>
+        <p>&copy; All Rights Reserved. Designed by Rafael Faust</p>
+      </Footer>
+    </Container>
+  )
 }
 
 export default App;
