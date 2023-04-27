@@ -31,8 +31,7 @@ function CarouselItens() {
           <p>Por este motivo elaboramos este treinamento para vocês, a fim de informar sobre os nossos procedimentos e normas internas de segurança para a preservação dos colaboradores, do
             patrimônio envolvido e do meio ambiente.</p>
           <p>Utilize as setas do site para navegar no conteúdo e ao final deve realizar o preenchimento do formulário que é uma avaliação do conteúdo lido aqui no site.</p>
-          <strong>Antes de realizar a visita para executar o serviço</strong>
-          <ul>
+          <ul>Antes de realizar a visita para executar o serviço
             <li>No final dessa apresentação, deve realizar um teste sobre o assunto abordado com 10 perguntas</li>
             <li>O teste tem uma nota mínima para aprovação, sendo possível refazer caso não atinja</li>
             <li>Ao ser aprovado recebera um termo de comprossimo, que deve trazer assinado entregar ao chegar na empresa</li>
@@ -64,11 +63,6 @@ function CarouselItens() {
           <p>A coleta seletiva é fundamental para preservar o meio ambiente, reduzir a extração de recursos naturais, diminuir a poluição do solo, da água e do ar e evitar a degradação ambiental.</p>
           <p>Ao encaminhar materiais recicláveis para a reciclagem, pode-se reaproveitá-los na produção de novos produtos e reduzir a quantidade de lixo enviada para os aterros sanitários.</p>
           <p>É importante incentivar a coleta seletiva em todos os lugares para garantir um ambiente mais saudável e sustentável para as atuais e futuras gerações.</p>
-          <ul>Confira abaixo importantes itens que envolvem a coleta seletiva:
-            <li>A coleta seletiva auxilia na reciclagem de diversos tipos de materiais que seriam descartados em lixões e aterros</li>
-            <li>Os materiais são separados por tipos (plástico, papel, vidro, metais, orgânico, etc), sendo, cada resíduo, destinado a um processo independente de reciclagem</li>
-            <li>Sem essa separação e coleta seletiva não é possível reciclar nenhum material que é recolhido pelo serviço de coleta de lixo urbano comum das prefeituras</li>
-          </ul>
         </DivText>
       </Item>
       <Item>
@@ -85,8 +79,6 @@ function CarouselItens() {
             <li>Seiketsu (padronização)</li>
             <li>Shitsuke (disciplina)</li>
           </ul>
-          <p>Através da aplicação desses conceitos, busca-se otimizar o uso dos recursos disponíveis, reduzir desperdícios, eliminar atividades desnecessárias e incentivar a cultura da qualidade e da excelência.</p>
-          <p>A filosofia do 5S é uma metodologia muito utilizada em empresas, mas pode ser aplicada também em residências e outros espaços, com objetivo de aprimorar a organização e a produtividade do local.</p>
         </DivText>
       </Item>
       <Item>
@@ -102,8 +94,6 @@ function CarouselItens() {
             <li>Depositar adequadamente os resíduos e somente em locais identificados;</li>
             <li>As áreas de trabalho devem se manter limpas e organizadas.</li>
           </ul>
-          <p>É obrigatório a utilização de EPI’S e outros dispositivos de segurança, durante toda a atividade.</p>
-          <p>“Lembre-se: Segurança e Qualidade são nossos maiores objetivos!”</p>
         </DivText>
       </Item>
       <Item>
@@ -127,7 +117,6 @@ function CarouselItens() {
             <li>Falta de Treinamento;</li>
             <li>Problemas de ordem pessoal / social.</li>
           </ul>
-          <p>“Todos somos responsáveis pela Segurança do Trabalho”</p>
         </DivText>
       </Item>
       <Item>
@@ -148,7 +137,6 @@ function CarouselItens() {
             <li>Em caso de incêndio, acompanhar a equipe de brigada de incêndio até o ponto de encontro;</li>
             <li>Em caso de mal súbito, informar um brigadista;</li>
           </ul>
-          <p>“Todos somos responsáveis pela Segurança do Trabalho”.</p>
         </DivText>
       </Item>
       <Item>
@@ -157,7 +145,6 @@ function CarouselItens() {
         </DivImage>
         <DivText>
           <h2>Práticas Seguras</h2>
-          <p>A segurança no trabalho é fundamental para garantir um ambiente de trabalho saudável e prevenir acidentes ou lesões que possam afetar a saúde e bem-estar dos trabalhadores. Algumas práticas seguras que podem ser implementadas em geral incluem:</p>
           <ol>
             <li>Treinamento e capacitação: fornecer treinamento adequado aos colaboradores sobre as melhores práticas de trabalho e segurança no local é importante para manter um ambiente de trabalho seguro.</li>
             <li>Uso de equipamentos de proteção individual (EPIs): utilizar os EPIs adequados para cada tarefa, como capacete, óculos, luvas, calçados de segurança, entre outros.</li>
@@ -165,8 +152,6 @@ function CarouselItens() {
             <li>Atenção à postura: incentivar uma boa postura durante o trabalho pode prevenir dores musculares, e demais danos à saúde corporal.</li>
             <li>Limpeza e organização: manter o local de trabalho limpo e organizado reduz o risco de acidentes, como tropeços ou quedas.</li>
             <li>Identificação de riscos: é importante identificar os riscos associados às atividades realizadas na empresa e tomar medidas preventivas para elimina-los ou minimizá-los.</li>
-            <li>canal de comunicação aberto e transparente entre líderes e colaboradores para que eles tenham liberdade para reportar quaisquer situações de risco.</li>
-            <li>Procedimentos de emergência: ter planos de emergência em caso de acidentes ou incidentes pode ajudar a minimizar os riscos e limitar danos.</li>
           </ol>
         </DivText>
       </Item>
@@ -176,16 +161,13 @@ function CarouselItens() {
         </DivImage>
         <DivText>
           <h2>Trabalho em Instalações Elétricas</h2>
-          <p>Trabalhar em instalações elétricas pode ser perigoso se medidas de segurança adequadas não forem tomadas. Algumas práticas seguras que devem ser adotadas ao trabalhar com instalações elétricas incluem, mas não se limitam a:</p>
           <ol>
             <li>Verificar as condições das ferramentas e equipamentos elétricos antes de usar.</li>
             <li>Desligar o fornecimento de energia elétrica à área onde você estiver trabalhando antes de iniciar qualquer trabalho.</li>
             <li>Utilizar Equipamentos de Proteção Individual (EPIs) adequados, como luvas isolantes, capacete, óculos de proteção, entre outros.</li>
             <li>Seguir as normas de segurança estabelecidas pela empresa ou instituição onde se trabalha.</li>
-            <li>Identificar os riscos elétricos no local e seguir os procedimentos de segurança estabelecidos para minimizar esses riscos.</li>
             <li>Nunca toque em fios elétricos expostos ou componentes elétricos sem verificar sua segurança primeiro.</li>
             <li>Manter a distância segura de quaisquer fontes de eletricidade ativa e evitar contato com água quando operar equipamentos elétricos.</li>
-            <li>Não sobrecarregar tomadas elétricas.</li>
             <li>Somente profissionais autorizados, em consonância coma NR-10, poderão realizar trabalhos em instalações elétricas.</li>
           </ol>
         </DivText>
@@ -213,7 +195,6 @@ function CarouselItens() {
         </DivImage>
         <DivText>
         <h2>Trabalhos a quente (chama aberta)</h2>
-          <p>Trabalhos a quente são atividades que envolvem fontes de calor, como soldagem, corte e esmerilhamento, e que podem gerar faíscas, chamas ou altas temperaturas. Essas atividades apresentam riscos significativos de incêndio e explosões, por isso é fundamental seguir as medidas de segurança adequadas.</p>
           <ul>
             <li>Se o trabalho a quente for realizado próximo a paredes, divisórias, forros ou telhados de construção combustível, eles devem se protegidos por cobertores resistentes ao fogo;</li>
             <li>Utilizar os EPI’S necessários ao desenvolvimento das atividades;</li>
@@ -221,7 +202,6 @@ function CarouselItens() {
             <li>Proteger bandejas de cabos elétricos e painéis caso haja possibilidade de ser atingidas por fagulhas;</li>
             <li>A área somente seja liberada após constatação da ausência de atividades incompatíveis com o trabalho quente.</li>
           </ul>
-          <p>“Todos somos responsáveis pela Segurança do Trabalho”.</p>
         </DivText>
       </Item>
       <Item>
