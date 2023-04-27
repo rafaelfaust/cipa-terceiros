@@ -15,6 +15,7 @@ import imagem10 from '../../images/10.jpg'
 import imagem11 from '../../images/11.jpg'
 import imagem12 from '../../images/12.jpg'
 import imagem13 from '../../images/13.jpg'
+import onix from '../../images/onixcinza.png'
 
 
 function CarouselItens() {
@@ -240,16 +241,11 @@ function CarouselItens() {
       </Item>
       <Item>
         <DivImage>
-          <img src={imagem1} alt="Imagem de segurança" />
+          <img src={onix} alt="Imagem de segurança" />
         </DivImage>
         <DivText>
-        <h2>Trabalhos em Altura</h2>
-          <p></p>
-          <ul>
-            <li></li>
-            <li></li>
-            <li></li>
-          </ul>
+        <h2>Teste de Conhecimento</h2>
+        
         </DivText>
       </Item>
     </Carousel>
