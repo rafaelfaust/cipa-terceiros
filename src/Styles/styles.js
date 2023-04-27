@@ -5,7 +5,6 @@ export const Container = styled.div`
     flex-direction: column;
     height: 100vh;
     width: 100vw;
-    text-align: center;
     justify-content: space-between;
 
 `
@@ -28,8 +27,8 @@ export const ContainerItems = styled.div`
         display: flex;
         align-items: center;
     }
-
-    .rec-arrow:hover {
+    //sc-eDDNvR crVxlK rec rec-arrow rec 
+    .sc-eDDNvR.rec.rec-arrow:hover {
         background-color: red;
     }
 
@@ -43,4 +42,16 @@ export const Footer = styled.footer`
     background-color: red;
     padding: 5px;
     font-size: 12px;
+    color: white;
+    text-align: center;
+
+    a {
+        text-decoration: none;
+        color: white;
+   
+    }
+
+    a:hover {
+        opacity: 0.8;
+    }
 `
