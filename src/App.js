@@ -21,7 +21,7 @@ function App() {
         <CarouselItens/>
       </ContainerItems>
       <Footer>
-        <p><a href="https://www.rafaelfaust.com.br" target="_blank">&copy; All Rights Reserved. Designed by Rafael Faust</a></p>
+        <p><a href="https://www.rafaelfaust.com.br" target="_blank" without rel="noreferrer">&copy; All Rights Reserved. Designed by Rafael Faust</a></p>
       </Footer>
     </Container>
   )
