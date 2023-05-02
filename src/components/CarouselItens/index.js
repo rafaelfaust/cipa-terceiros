@@ -30,7 +30,6 @@ function CarouselItens() {
           <p>Aqui zelamos pela Segurança!</p>
           <p>Por este motivo elaboramos este treinamento para vocês, a fim de informar sobre os nossos procedimentos e normas internas de segurança para a preservação dos colaboradores, do
             patrimônio envolvido e do meio ambiente.</p>
-          <p>Utilize as setas do site para navegar no conteúdo e ao final deve realizar o preenchimento do formulário que é uma avaliação do conteúdo lido aqui no site.</p>
           <ul>Antes de realizar a visita para executar o serviço
             <li>No final dessa apresentação, deve realizar um teste sobre o assunto abordado com 10 perguntas</li>
             <li>O teste tem uma nota mínima para aprovação, sendo possível refazer caso não atinja</li>
@@ -151,7 +150,6 @@ function CarouselItens() {
             <li>Prevenção de quedas: certificar-se de que todas as áreas de trabalho estejam limpas, organizadas e sem obstáculos que possam causar quedas.</li>
             <li>Atenção à postura: incentivar uma boa postura durante o trabalho pode prevenir dores musculares, e demais danos à saúde corporal.</li>
             <li>Limpeza e organização: manter o local de trabalho limpo e organizado reduz o risco de acidentes, como tropeços ou quedas.</li>
-            <li>Identificação de riscos: é importante identificar os riscos associados às atividades realizadas na empresa e tomar medidas preventivas para elimina-los ou minimizá-los.</li>
           </ol>
         </DivText>
       </Item>
@@ -186,7 +184,6 @@ function CarouselItens() {
             <li>Deve-se realizar isolamento e sinalização da área durante atividade;</li>
             <li>Deverá ser verificado junto a CIPA, qual a melhor forma de ancoragem, antes de iniciar o trabalho.</li>
           </ul>
-          <p>“Todos somos responsáveis pela Segurança do Trabalho”.</p>
         </DivText>
       </Item>
       <Item>

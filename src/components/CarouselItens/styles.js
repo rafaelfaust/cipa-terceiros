@@ -55,7 +55,7 @@ export const DivText = styled.div`
     }
 
     ul{
-        margin: 0 0 20px 0;
+        margin: 0 0 10px 0;
         font-weight: 700;
         line-height: 21px;
         font-size: 18px;

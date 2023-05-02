@@ -25,7 +25,11 @@ export const ContainerItems = styled.div`
 
     .rec .rec-carousel-item {
         display: flex;
-        align-items: center; 
+        align-items: center;
+
+        @media screen and (max-width: 1020px) {
+            align-items: start;
+        }
     }
 
     .rec.rec-arrow {
