@@ -25,12 +25,26 @@ export const ContainerItems = styled.div`
 
     .rec .rec-carousel-item {
         display: flex;
-        align-items: center;
+        align-items: center; 
     }
-    //sc-eDDNvR crVxlK rec rec-arrow rec 
-    .sc-eDDNvR.rec.rec-arrow:hover {
-        background-color: red;
+
+    .rec.rec-arrow {
+        background-color: #F0EBF8;
+        color: #000;
     }
+ 
+    .rec.rec-arrow:hover {
+        background-color: rgb(255, 0, 0);
+        color: #fff;
+    }
+
+    .rec .rec-dot:hover {
+        box-shadow: rgb(255, 0, 0) 0px 0px 1px 2px;
+    }
+
+    .rec.rec-arrow:disabled {
+    visibility: hidden;
+}
 
     .rec-dot_active {
         background-color: red;

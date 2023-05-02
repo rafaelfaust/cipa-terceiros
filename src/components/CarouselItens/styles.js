@@ -3,17 +3,27 @@ import styled from "styled-components"
 export const Item = styled.div`
     display: grid;
     grid-template-columns: 1fr 1fr;
+
+    @media screen and (max-width: 1020px) {
+        grid-template-columns: 1fr;
+        
+    }
 `
 export const DivImage = styled.div`
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        width: 90%;
+        width: 80%;
 
         img {
-        width: 90%;
+        width: 80%;
         border-radius: 20px;
+    }
+
+    @media screen and (max-width: 1020px) {
+        display: none;
+        
     }
         
 `
@@ -21,21 +31,19 @@ export const DivImage = styled.div`
 export const DivText = styled.div`
         display: flex;
         flex-direction: column;
-        width: 90%;
+        width: 80%;
         justify-content: center;
+
+        @media screen and (max-width: 1020px) {
+            text-align: center;
+            justify-content: initial;
+        }
 
         h2 {
         font-weight: 900;
         line-height: 21px;
-        margin-bottom: 20px;
-
-    }
-
-    strong {
-        margin: 40px 0;
-        font-weight: 900;
-        line-height: 21px;
-        font-size: 20px;
+        margin: 20px 0;
+        font-size: 21px;
 
     }
 

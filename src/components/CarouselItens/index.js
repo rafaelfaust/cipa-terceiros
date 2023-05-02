@@ -15,7 +15,7 @@ import imagem10 from '../../images/10.jpg'
 import imagem11 from '../../images/11.jpg'
 import imagem12 from '../../images/12.jpg'
 import imagem13 from '../../images/13.jpg'
-import onix from '../../images/onixcinza.png'
+import onix from '../../images/ONIX_logovermelho.png'
 
 
 function CarouselItens() {
