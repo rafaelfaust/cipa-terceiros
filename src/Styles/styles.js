@@ -14,6 +14,7 @@ export const Nav = styled.nav`
     justify-content: space-around;
     height: 80px;
     align-items: center;
+    color: #ffffff;
     
     img {
         max-height: 80%;
@@ -21,15 +22,10 @@ export const Nav = styled.nav`
 `
 export const ContainerItems = styled.div`
 
-    padding: 0 50px;
+    padding: 0 20px;
 
     .rec .rec-carousel-item {
         display: flex;
-        align-items: center;
-
-        @media screen and (max-width: 1020px) {
-            align-items: start;
-        }
     }
 
     .rec.rec-arrow {

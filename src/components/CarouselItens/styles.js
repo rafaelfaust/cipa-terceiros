@@ -14,24 +14,20 @@ export const DivImage = styled.div`
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        width: 80%;
+        width: 100%;
 
         img {
         width: 80%;
         border-radius: 20px;
     }
 
-    @media screen and (max-width: 1020px) {
-        display: none;
-        
-    }
         
 `
 
 export const DivText = styled.div`
         display: flex;
         flex-direction: column;
-        width: 80%;
+        width: 100%;
         justify-content: center;
 
         @media screen and (max-width: 1020px) {
