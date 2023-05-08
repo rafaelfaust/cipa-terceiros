@@ -43,7 +43,7 @@ function CarouselItens() {
         </DivImage>
         <DivText>
           <h2>O uso dos <span>EPI’S</span> abaixo, são obrigatórios dentro da Fábrica.</h2>
-          <ul>Sapado de Segurança
+          <ul>Sapato de Segurança
             <li>Eles protegem os pés do trabalhador contra riscos físicos, riscos químicos, riscos biológicos e acidentes variados.</li>
             <li>O uso desse tipo de calçado é obrigatório em ambientes de trabalho.</li>
           </ul>
@@ -221,7 +221,7 @@ function CarouselItens() {
           <img src={onix} alt="Imagem de segurança" />
         </DivImage>
         <DivText>
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSesxlkTz9rjZ3hSQCIimiAzvD6_eNK8HvSe8f0p34F8XGSybQ/viewform?embedded=true" width="90%" height="90%" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeybgquqvFEefwKjkE_0hFeyZujphMgx72580kwg01ktCvhew/viewform?embedded=true" width="90%" height="90%" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
         
         </DivText>
       </Item>
