@@ -15,7 +15,7 @@ import imagem10 from '../../images/10.jpg'
 import imagem11 from '../../images/11.jpg'
 import imagem12 from '../../images/12.jpg'
 import imagem13 from '../../images/13.jpg'
-import onix from '../../images/ONIX_logovermelho.png'
+import onix from '../../images/ONIX_PRINCIPAL DEGRADE.png'
 
 
 function CarouselItens() {
@@ -210,7 +210,7 @@ function CarouselItens() {
           <p>Quando constatado o não cumprimento das normas de segurança, ou na evidência de condições que exponham pessoas a risco grave e iminente, a CIPA através de seus representantes, reserva-se o direito de paralisação / interdição imediata da atividade, até que sejam tomas as medidas cabíveis à regularização. Independente do cumprimento do cronograma da atividade / serviço em execução.</p>
           <ul>
             <li>Use o banheiro de forma adequada, mantendo-o sempre em condições de uso;</li>
-            <li>nca suba no vaso sanitário, pois ele pode quebrar, causando um grave acidente;</li>
+            <li>Não suba no vaso sanitário, pois ele pode quebrar, causando um grave acidente;</li>
           </ul>
           <p>“Enquanto estiveram em nossa empresa, seja visitando ou trabalhando, somos responsáveis por sua segurança e bem estar”</p>
 

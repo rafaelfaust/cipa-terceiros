@@ -1,7 +1,7 @@
 import React from "react"
 import { Container, ContainerItems, Nav, Footer } from './Styles/styles'
 import CarouselItens from "./components/CarouselItens"
-import Onix from './images/onixcinza.png'
+import Onix from './images/ONIX_PRINCIPAL BRANCA.png'
 import Cipa from './images/cipa.png'
 
 

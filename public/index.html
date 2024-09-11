@@ -17,5 +17,17 @@
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
+    <script src="https://unpkg.com/blip-chat-widget" type="text/javascript"></script>
+<script>
+    (function () {
+        window.onload = function () {
+            new BlipChat()
+                .withAppKey('Y29tZXJjaWFsMjExOmFkNzQ0ZTMwLWU4NGMtNGY2Ni1iM2FkLWI3Mzk1ZWNmNzA0Yw==')
+                .withButton({"color":"#43097D","icon":""})
+                .withCustomCommonUrl('https://onix.chat.blip.ai/')
+                .build();
+        }
+    })();
+</script>
   </body>
 </html>

@@ -9,7 +9,7 @@ export const Container = styled.div`
 
 `
 export const Nav = styled.nav`
-    background-color: red;
+    background-color: #43097D;
     display: flex;
     justify-content: space-around;
     height: 80px;
@@ -30,16 +30,16 @@ export const ContainerItems = styled.div`
 
     .rec.rec-arrow {
         background-color: #F0EBF8;
-        color: #000;
+        color: #43097D;
     }
  
     .rec.rec-arrow:hover {
-        background-color: rgb(255, 0, 0);
+        background-color: #43097D;
         color: #fff;
     }
 
     .rec .rec-dot:hover {
-        box-shadow: rgb(255, 0, 0) 0px 0px 1px 2px;
+        box-shadow: #43097D 0px 0px 1px 2px;
     }
 
     .rec.rec-arrow:disabled {
@@ -47,13 +47,13 @@ export const ContainerItems = styled.div`
 }
 
     .rec-dot_active {
-        background-color: red;
-        box-shadow: rgb(255, 0, 0) 0px 0px 1px 3px;
+        background-color: #43097D;
+        box-shadow: #43097D 0px 0px 1px 3px;
 
     }
 `
 export const Footer = styled.footer`    
-    background-color: red;
+    background-color: #43097D;
     padding: 5px;
     font-size: 12px;
     color: white;
