@@ -153,7 +153,7 @@ function CarouselItens() {
             <li>Polícia Militar Rodoviária 198</li>
             <li>Polícia Rodoviária Federal 191</li>
             <li>Polícia Civil 181</li>
-            <li>Defese Civil 199</li>
+            <li>Defesa Civil 199</li>
             <li>Hospital São Camilo (48) 3513-4343 </li>
           </ul>
         </DivText>
