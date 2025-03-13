@@ -10,6 +10,7 @@ import imagem4 from '../../images/5s.jpg'
 import imagem5 from '../../images/05.jpg'
 import imagem7 from '../../images/07.jpg'
 import imagem8 from '../../images/08.jpg'
+import imagem8a from '../../images/08A.jpg'
 import imagem9 from '../../images/09.jpg'
 import imagem10 from '../../images/10.jpg'
 import imagem11 from '../../images/11.jpg'
@@ -28,12 +29,11 @@ function CarouselItens() {
         <DivText>
           <h2>Seja Bem Vindo(a)</h2>
           <p>Aqui zelamos pela Segurança!</p>
-          <p>Por este motivo elaboramos este treinamento para vocês, a fim de informar sobre os nossos procedimentos e normas internas de segurança para a preservação dos colaboradores, do
-            patrimônio envolvido e do meio ambiente.</p>
+          <p>Por este motivo elaboramos este treinamento para vocês, o qual deverá ser assinalado com seu ciente e de acordo com as nossas normas.</p>
           <ul>Antes de realizar a visita para executar o serviço
-            <li>No final dessa apresentação, deve realizar um teste sobre o assunto abordado com 10 perguntas</li>
-            <li>O teste tem uma nota mínima para aprovação, sendo possível refazer caso não atinja</li>
-            <li>Ao ser aprovado recebera um termo de comprossimo, que deve trazer assinado entregar ao chegar na empresa</li>
+            <li>No final dessa apresentação, deve realizar um teste sobre o assunto abordado com 10 perguntas.</li>
+            <li>O teste tem uma nota mínima para aprovação, sendo possível refazer caso não atinja.</li>
+            <li>Ao ser aprovado receberá um termo de comprossimo, que deve trazer assinado entregar ao chegar na empresa.</li>
           </ul>
         </DivText>
       </Item>
@@ -62,6 +62,7 @@ function CarouselItens() {
           <p>A coleta seletiva é fundamental para preservar o meio ambiente, reduzir a extração de recursos naturais, diminuir a poluição do solo, da água e do ar e evitar a degradação ambiental.</p>
           <p>Ao encaminhar materiais recicláveis para a reciclagem, pode-se reaproveitá-los na produção de novos produtos e reduzir a quantidade de lixo enviada para os aterros sanitários.</p>
           <p>É importante incentivar a coleta seletiva em todos os lugares para garantir um ambiente mais saudável e sustentável para as atuais e futuras gerações.</p>
+          <p>REalizamos a separação de lixo e as lixeiras encontram-se no nosso refeitório de uso comum.</p>
         </DivText>
       </Item>
       <Item>
@@ -107,6 +108,7 @@ function CarouselItens() {
             <li>Utilizar equipamentos e máquinas de forma indevida;</li>
             <li>Ocorrência de insultos, brigas ou desordens;</li>
             <li>Fotografar e filmar só é permitido com autorização antecipada.</li>
+            <li>Proibido fumar nas denpendecias da empresa, possuimos local para fumantes na lateral da empresa.</li>
           </ul>
           <ul>Principais Causas de Acidente
             <li>Falta de Planejamento;</li>
@@ -135,6 +137,24 @@ function CarouselItens() {
             <li>O acidentado deverá se encaminhado ao hospital, caso necessário, outas;</li>
             <li>Em caso de incêndio, acompanhar a equipe de brigada de incêndio até o ponto de encontro;</li>
             <li>Em caso de mal súbito, informar um brigadista;</li>
+          </ul>
+        </DivText>
+      </Item>
+      <Item>
+        <DivImage>
+          <img src={imagem8a} alt="Imagem de segurança" />
+        </DivImage>
+        <DivText>
+          <h2>Números de Emergências</h2>
+          <ul> Números de Emergências.
+            <li>Bombeiros 193</li>
+            <li>Samu 192</li>
+            <li>Polícia Militar 190</li>
+            <li>Polícia Militar Rodoviária 198</li>
+            <li>Polícia Rodoviária Federal 191</li>
+            <li>Polícia Civil 181</li>
+            <li>Defese Civil 199</li>
+            <li>Hospital São Camilo (48) 3513-4343 </li>
           </ul>
         </DivText>
       </Item>
@@ -180,7 +200,7 @@ function CarouselItens() {
           <ul>
             <li>Considera-se trabalho em altura toda atividade executada acima de 2,00 (dois metros) do nível inferior, onde haja risco de queda;</li>
             <li>Todos os trabalhadores que tiveram de executar trabalhos em altura devem receber treinamento especifico, conforme item 35.3 da NR-35;</li>
-            <li>Utilizar os EPI’S necessários ao desenvolvimento das atividades, como o sinto de segurança;</li>
+            <li>Utilizar os EPI’S necessários ao desenvolvimento das atividades, como o cinto de segurança;</li>
             <li>Deve-se realizar isolamento e sinalização da área durante atividade;</li>
             <li>Deverá ser verificado junto a CIPA, qual a melhor forma de ancoragem, antes de iniciar o trabalho.</li>
           </ul>
@@ -208,6 +228,7 @@ function CarouselItens() {
         <DivText>
         <h2>Recomendações Gerais</h2>
           <p>Quando constatado o não cumprimento das normas de segurança, ou na evidência de condições que exponham pessoas a risco grave e iminente, a CIPA através de seus representantes, reserva-se o direito de paralisação / interdição imediata da atividade, até que sejam tomas as medidas cabíveis à regularização. Independente do cumprimento do cronograma da atividade / serviço em execução.</p>
+          <p>Em caso de Prestador de Serviços, solicitamos que envie a documentação em tempo hábil conforme o Contrato de prestação de serviços.</p>
           <ul>
             <li>Use o banheiro de forma adequada, mantendo-o sempre em condições de uso;</li>
             <li>Não suba no vaso sanitário, pois ele pode quebrar, causando um grave acidente;</li>
