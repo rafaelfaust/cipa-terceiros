@@ -146,7 +146,7 @@ function CarouselItens() {
         </DivImage>
         <DivText>
           <h2>Números de Emergências</h2>
-          <ul> Números de Emergências.
+          <ul>
             <li>Bombeiros 193</li>
             <li>Samu 192</li>
             <li>Polícia Militar 190</li>
