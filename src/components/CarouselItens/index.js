@@ -62,7 +62,7 @@ function CarouselItens() {
           <p>A coleta seletiva é fundamental para preservar o meio ambiente, reduzir a extração de recursos naturais, diminuir a poluição do solo, da água e do ar e evitar a degradação ambiental.</p>
           <p>Ao encaminhar materiais recicláveis para a reciclagem, pode-se reaproveitá-los na produção de novos produtos e reduzir a quantidade de lixo enviada para os aterros sanitários.</p>
           <p>É importante incentivar a coleta seletiva em todos os lugares para garantir um ambiente mais saudável e sustentável para as atuais e futuras gerações.</p>
-          <p>REalizamos a separação de lixo e as lixeiras encontram-se no nosso refeitório de uso comum.</p>
+          <p>Realizamos a separação de lixo e as lixeiras encontram-se no nosso refeitório de uso comum.</p>
         </DivText>
       </Item>
       <Item>
