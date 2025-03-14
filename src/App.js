@@ -13,7 +13,7 @@ function App() {
     <Container>
       <Nav>
         <img src={Onix} alt="Logo Onix"/>
-        <h1>Treinamento</h1>
+        <h1>Treinamento de Saúde e Segurança do Trabalho Onix</h1>
         <img src={Cipa} alt="Logo Cipa"/>
 
       </Nav>
