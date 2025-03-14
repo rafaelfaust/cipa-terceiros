@@ -27,7 +27,7 @@ function CarouselItens() {
           <img src={imagem1} alt="Imagem de segurança" />
         </DivImage>
         <DivText>
-          <h2>Seja Bem Vindo(a)</h2>
+          <h2>Seja Bem-Vindo(a)</h2>
           <p>Aqui zelamos pela Segurança!</p>
           <p>Por este motivo elaboramos este treinamento para vocês, o qual deverá ser assinalado com seu ciente e de acordo com as nossas normas.</p>
           <ul>Antes de realizar a visita para executar o serviço
