@@ -47,7 +47,7 @@ function CarouselItens() {
             <li>Eles protegem os pés do trabalhador contra riscos físicos, riscos químicos, riscos biológicos e acidentes variados.</li>
             <li>O uso desse tipo de calçado é obrigatório em ambientes de trabalho.</li>
           </ul>
-          <ul>Protetor auriculares
+          <ul>Protetores auriculares
             <li>Os protetores auditivos ou auriculares são importantes para suavizar os níveis de ruídos que estão acima do limite de tolerância que a norma estabelece.</li>
             <li>Além disso, podem servir também para amenizar desconforto acústicos e/ou proteger de frio e da água.</li>
           </ul>
