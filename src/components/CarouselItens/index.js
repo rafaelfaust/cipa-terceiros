@@ -33,7 +33,6 @@ function CarouselItens() {
           <ul>Antes de realizar a visita para executar o serviço
             <li>No final dessa apresentação, deve realizar um teste sobre o assunto abordado com 10 perguntas.</li>
             <li>O teste tem uma nota mínima para aprovação, sendo possível refazer caso não atinja.</li>
-            <li>Ao ser aprovado receberá um termo de comprossimo, que deve trazer assinado entregar ao chegar na empresa.</li>
           </ul>
         </DivText>
       </Item>
@@ -242,7 +241,7 @@ function CarouselItens() {
           <img src={onix} alt="Imagem de segurança" />
         </DivImage>
         <DivText>
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeybgquqvFEefwKjkE_0hFeyZujphMgx72580kwg01ktCvhew/viewform?embedded=true" width="90%" height="90%" frameborder="0" marginheight="0" marginwidth="0" title="Teste">Carregando…</iframe>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeybgquqvFEefwKjkE_0hFeyZujphMgx72580kwg01ktCvhew/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0" title="Teste">Carregando…</iframe>
         </DivText>
       </Item>
     </Carousel>
